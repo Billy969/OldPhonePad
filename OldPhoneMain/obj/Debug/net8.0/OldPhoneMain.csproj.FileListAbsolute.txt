@@ -1,0 +1,15 @@
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\obj\Debug\net8.0\OldPhoneMain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\obj\Debug\net8.0\OldPhoneMain.AssemblyInfoInputs.cache
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\obj\Debug\net8.0\OldPhoneMain.AssemblyInfo.cs
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\obj\Debug\net8.0\OldPhoneMain.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\obj\Debug\net8.0\OldPhoneMain.sourcelink.json
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\bin\Debug\net8.0\OldPhoneMain.exe
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\bin\Debug\net8.0\OldPhoneMain.deps.json
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\bin\Debug\net8.0\OldPhoneMain.runtimeconfig.json
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\bin\Debug\net8.0\OldPhoneMain.dll
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\bin\Debug\net8.0\OldPhoneMain.pdb
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\obj\Debug\net8.0\OldPhoneMain.dll
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\obj\Debug\net8.0\refint\OldPhoneMain.dll
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\obj\Debug\net8.0\OldPhoneMain.pdb
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\obj\Debug\net8.0\OldPhoneMain.genruntimeconfig.cache
+C:\Users\Juan\Documents\GitHub\OldPhonePad\OldPhoneMain\obj\Debug\net8.0\ref\OldPhoneMain.dll
