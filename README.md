@@ -1,6 +1,6 @@
 # Old Phone Pad Decoder
 
-A C# console program that simulates typing on an old T9-style phone keypad to decode messages.
+A C# console program that simulates typing on an old phone keypad to decode messages.
 
 ## Problem
 
